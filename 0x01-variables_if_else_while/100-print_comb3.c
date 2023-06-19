@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 *main - starting point
-*description:  the numbers 0 to 9 method 2
+*description: combinations of two digits
 * Return: 0
 */
 int main(void)
