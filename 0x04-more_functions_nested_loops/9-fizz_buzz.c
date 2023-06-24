@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdio.h>
+
 /**
 *main - FIZZ BUZZ
 *Return: 0
@@ -21,7 +22,7 @@ int main(void)
 		}
 		else if (n % 5 == 0)
 		{
-			printf("buzz");
+			printf("Buzz");
 		}
 		else
 		{
